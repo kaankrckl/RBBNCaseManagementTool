@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('univocity-parsers-2.7.6.jar'))
